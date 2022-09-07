@@ -8,7 +8,7 @@ var baseURL;
 // ) {
 //   baseURL = process.env.REACT_APP_API_BASE_URL;
 // } else 
-baseURL = "https://backend-shoeden-kristian.herokuapp.com/";
+baseURL = "https://shoeden-backend4.herokuapp.com/";
 // }
 
 const api = axios.create({
