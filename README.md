@@ -8,9 +8,13 @@ This project  with a frontend built in React & Redux and a backend built in Djan
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://frontend-shoeden-kristian.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://shoeden-frontend4.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://backend-shoeden-kristian.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://shoeden-backend4.herokuapp.com/) here!!
+
+## ScreenShot
+<img width="1217" alt="Screenshot 2022-09-07 at 8 49 16 AM" src="https://user-images.githubusercontent.com/107904572/188781781-1f39cfe5-27cf-42da-af23-18068b3b1ebf.png">
+
 
 ## Tech used
 
@@ -24,7 +28,7 @@ Check out [API LIVE DEMO](https://backend-shoeden-kristian.herokuapp.com/) here!
 1. Git Clone
 
 ```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
+git clone https://github.com/jacquelinejoe/Shoe-Den-Project.git
 ```
 
 2. Backend setting
